@@ -1,1 +1,2 @@
-# BankManagementSystem
+# BankManagementSystem Using SpringBoot
+The Bank Management System is a backend application built with Java and Spring Boot. It allows for the creation and management of bank accounts, including performing transactions (deposits and withdrawals) and maintaining account data securely. This project demonstrates how to implement common banking operations with a focus on backend architecture and RESTful API development.
